@@ -42,3 +42,23 @@
   top: 217px;
   left: 223px;
 }
+
+.kitty-1 {
+  position: absolute
+}
+
+#kitty-2 {
+  position: absolute;
+}
+
+#basket img {
+  position: absolute;
+}
+
+#ball + img {
+  position: absolute;
+}
+
+img[alt="Kitty 5"] {
+  position: absolute;
+}
